@@ -1,0 +1,42 @@
+id: IF926FCD4
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:35:30.317276'
+last_modified: '2022-05-31T06:35:30.317296'
+parser: null
+source_metadata:
+  title: Ngorchen Kunga Zangpo
+  language: bo
+  description: 'Texts by and about Ngorchen Kunga Zangpo (ngor chen kun dga'' bzang
+    po, 1382–1456), one of the most prolific and influential masters in the Sakya
+    school and the founder of Ngor Monastery:'
+  volume:
+    fD5D1:
+      title: The Source of Beings' Happiness
+      base_file: fD5D1.txt
+      order: 1
+      parent: Aspiration Prayers
+    f461F:
+      title: Bodhicaryāvatāra Lineage Prayer
+      base_file: f461F.txt
+      order: 2
+      parent: Lineage Prayers
+    f78A4:
+      title: Prayer to the Lineage of Parting from the Four Attachments
+      base_file: f78A4.txt
+      order: 3
+      parent: Lineage Prayers
+    f2424:
+      title: 'The Purifier of Ethical Discipline: An Aspirational Praise to Vajradhara
+        Kunga Zangpo'
+      base_file: f2424.txt
+      order: 4
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
